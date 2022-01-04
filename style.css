@@ -14,7 +14,7 @@ span{
 a{
     text-decoration: none;
     color: white;
-  background-color: chartreuse;
+background-image: linear-gradient(blue,orange);
     padding: 10px 40px;
 }
 .half-width{
