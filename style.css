@@ -2,6 +2,23 @@ h1{
     font-size: 50px;
     font-family:'Poppins', sans-serif; ;
 }
+.tumi{
+    margin-bottom: 100px;
+}
 span{
     color: orange;
+}
+.briyani{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.maria{
+border: 2px solid yellow;
+
 }
